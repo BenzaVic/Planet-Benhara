@@ -6,7 +6,11 @@ You wake up in your dome on Planet Benhara to find the power has failed. Explore
 
 ![Title screen](screenshots/01-title.jpg)
 
-<!-- Gameplay trailer: on github.com, edit this file and drag benhara-trailer.mp4 onto this line -->
+
+
+
+https://github.com/user-attachments/assets/e6fe28a4-5e6b-4659-86ca-21b7ffc2d19b
+
 
 ---
 
